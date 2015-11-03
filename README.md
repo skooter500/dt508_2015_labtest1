@@ -6,9 +6,9 @@
 - You can only access the following websites during the test: 
 	- https://www.processing.org/reference/ 
 	- https://github.com/skooter500/dt508-gameprogramming-2015 
-	- At the end of the test, zip up the folder with your solution and submit through webcourses *only*. Do not email me solutions.
 - You should start the test with a blank Processing sketch
 - Save OFTEN! If Processing crashes and you "loose everything" you will receive 0
+- At the end of the test, zip up the folder with your solution and submit through webcourses *only*. Do not email me solutions.
 
 Make this in Processing:
 

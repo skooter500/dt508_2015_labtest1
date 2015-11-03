@@ -12,9 +12,9 @@
 
 Make this in Processing:
 
-[![YouTube](http://img.youtube.com/vi/t7kbuD-_bCE/0.jpg)](https://www.youtube.com/watch?v=t7kbuD-_bCE)
+[![YouTube](http://img.youtube.com/vi/ETnr0A7NjMA/0.jpg)](https://www.youtube.com/watch?v=ETnr0A7NjMA)
 
-In your solution, you should create and use variables for all important pixel co-ordinates and sizes and use loops as much as possible to minimise code.
+In your solution, you should create and use variables for all important pixel co-ordinates and sizes and use loops.
 
 This is the marking scheme:
 

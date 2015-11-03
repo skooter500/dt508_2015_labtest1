@@ -14,7 +14,8 @@ Make this in Processing:
 
 [![YouTube](http://img.youtube.com/vi/ETnr0A7NjMA/0.jpg)](https://www.youtube.com/watch?v=ETnr0A7NjMA)
 
-In your solution, you should create and use variables for all important pixel co-ordinates and sizes and use loops.
+The road in your sketch should fill the width of the screen. In your solution, you should create and use variables for all important pixel co-ordinates and sizes and use loops.
+
 
 This is the marking scheme:
 
